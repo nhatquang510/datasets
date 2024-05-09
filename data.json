@@ -151,5 +151,185 @@
       "updated_at": "2018-01-12",
       "category": "github",
       "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "This monthly safety bulletin outlines our updated safety protocols and procedures designed to maintain a secure workplace. Please review the following changes to ensure you are up to date with our safety standards. \n\n1. Fire Safety Enhancements: We have installed additional fire extinguishers on each floor and conducted fire drills last month to ensure everyone knows the evacuation routes. \n2. New Ergonomic Equipment: To prevent workplace injuries, ergonomic chairs and standing desks are now available upon request. \n3. Chemical Safety Training: A mandatory training session on handling chemicals safely is scheduled for next Thursday. Attendance is compulsory for all staff handling hazardous materials.\n\nPlease prioritize safety and familiarize yourself with these updates to our safety procedures.",
+        "summary": "The monthly safety bulletin introduces updated safety protocols, including fire safety enhancements, new ergonomic equipment, and mandatory chemical safety training.",
+        "name": "Monthly Safety Bulletin",
+        "url": "./github/Monthly Safety Bulletin.txt",
+        "created_on": "2018-02-15",
+        "updated_at": "2018-02-15",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our annual community outreach program aims to strengthen our company's ties with the local community through various initiatives. This guide outlines the upcoming events and ways you can get involved. \n\n1. Charity Run: Participate in the 5K run to raise funds for local schools. \n2. Tech Education Day: Volunteer to teach basic computer skills at community centers. \n3. Environmental Clean-Up: Join the team for a day of cleaning up local parks and rivers. \n\nYour participation not only helps the community but also builds team spirit and company pride.",
+        "summary": "The guide details the annual community outreach program with events like a charity run, tech education day, and environmental clean-up to engage employees and support the local community.",
+        "name": "Community Outreach Program Guide",
+        "url": "./github/Community Outreach Program Guide.txt",
+        "created_on": "2018-03-22",
+        "updated_at": "2018-03-22",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our company's quarterly financial report provides an overview of financial performance, highlighting revenue growth, expense management, and profitability. Key points include an 8% revenue increase from the previous quarter and successful cost-cutting measures that improved overall profitability. Please review the detailed breakdown of financials to understand our current position and future outlook.",
+        "summary": "The quarterly financial report covers the company's improved revenue growth and profitability, including specific metrics and future projections.",
+        "name": "Quarterly Financial Report",
+        "url": "./github/Quarterly Financial Report.txt",
+        "created_on": "2018-04-10",
+        "updated_at": "2018-04-10",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our company values your health and wellness, which is why we offer an annual health screening for all employees. This comprehensive guide includes information on how to schedule your screening, what tests are included, and how to interpret your results. Please ensure you book your appointment within the next month to take full advantage of this benefit.",
+        "summary": "The health screening guide details the scheduling process, included tests, and interpretation of results for the company's annual employee health checkup.",
+        "name": "Employee Health Screening Guide",
+        "url": "./github/Employee Health Screening Guide.txt",
+        "created_on": "2018-05-18",
+        "updated_at": "2018-05-18",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Welcome to our new office location! This guide is designed to help you navigate our new space and familiarize yourself with its features. It includes maps of each floor, locations of essential areas like the kitchen, bathrooms, and meeting rooms, and instructions on how to use the new security system. Please take some time to read through this guide to make your transition as smooth as possible.",
+        "summary": "The new office navigation guide provides maps and key information to help employees adjust to the new building and its features.",
+        "name": "New Office Navigation Guide",
+        "url": "./github/New Office Navigation Guide.txt",
+        "created_on": "2018-06-01",
+        "updated_at": "2018-06-01",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "This training manual is designed for new software developers joining our tech team. It covers everything from setting up your development environment, to coding standards, to deployment processes. It also includes links to our code repositories and API documentation. Please go through this manual carefully to ensure you are ready to contribute to our projects.",
+        "summary": "The training manual for new developers provides essential information on setting up development environments, coding standards, and deployment processes.",
+        "name": "New Developer Training Manual",
+        "url": "./github/New Developer Training Manual.txt",
+        "created_on": "2018-07-20",
+        "updated_at": "2018-07-20",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our yearly software upgrade plan outlines the upcoming enhancements to our systems and software. This year's focus is on improving security features and user interface design across all platforms. The plan details the scheduled updates and downtime, testing phases, and the support available for users during the transition. Please review this plan to prepare for the upcoming changes.",
+        "summary": "The yearly software upgrade plan details the enhancements focusing on security and user interface, including schedules, testing, and user support.",
+        "name": "Yearly Software Upgrade Plan",
+        "url": "./github/Yearly Software Upgrade Plan.txt",
+        "created_on": "2018-08-15",
+        "updated_at": "2018-08-15",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Welcome to our annual company retreat! This guide includes the schedule of activities, session descriptions, and logistical information such as accommodations and transportation. Our retreat is designed to foster team building and strategic planning. Please read through this guide to maximize your experience and contribute effectively to our discussions and activities.",
+        "summary": "The company retreat guide provides a schedule of activities, session information, and logistics to enhance team building and strategic planning.",
+        "name": "Annual Company Retreat Guide",
+        "url": "./github/Annual Company Retreat Guide.txt",
+        "created_on": "2018-09-10",
+        "updated_at": "2018-09-10",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "The customer service training manual is a comprehensive resource for all new customer service representatives. It covers our service philosophy, handling different types of customer interactions, and using our customer relationship management (CRM) software. Additionally, it includes scripts and scenarios to practice typical customer queries and complaints. Please study this manual to deliver exceptional service to our customers.",
+        "summary": "The customer service training manual offers detailed instructions on the company's service philosophy, handling interactions, and CRM software use.",
+        "name": "Customer Service Training Manual",
+        "url": "./github/Customer Service Training Manual.txt",
+        "created_on": "2018-10-25",
+        "updated_at": "2018-10-25",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "This year's holiday schedule has been released. It includes the official holidays and the optional leave days available to employees. Please review the schedule to plan your vacations and inform HR of your choices in advance. This helps us manage staffing effectively and ensures continuous operations during the holiday season.",
+        "summary": "The holiday schedule lists official holidays and optional leave, allowing employees to plan ahead and notify HR for effective staffing.",
+        "name": "Annual Holiday Schedule",
+        "url": "./github/Annual Holiday Schedule.txt",
+        "created_on": "2018-11-30",
+        "updated_at": "2018-11-30",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our new employee referral program aims to leverage our existing workforce to find talented candidates. This document details the incentives for referrals, the process for submitting a referral, and the criteria we use to evaluate candidates. We encourage you to refer qualified individuals who you believe will contribute to our company's success.",
+        "summary": "The employee referral program document outlines incentives, submission processes, and candidate evaluation criteria to encourage referrals from current employees.",
+        "name": "Employee Referral Program Documentation",
+        "url": "./github/Employee Referral Program Documentation.txt",
+        "created_on": "2018-12-12",
+        "updated_at": "2018-12-12",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Welcome to our annual performance review process. This guide outlines the steps, timelines, and criteria used to evaluate employee performance. It includes forms and instructions for self-assessment, manager assessments, and peer reviews. Understanding this process will help you actively participate in your evaluation and career development discussions.",
+        "summary": "The annual performance review guide explains the review process, including timelines, criteria, and assessment forms for comprehensive employee evaluations.",
+        "name": "Annual Performance Review Guide",
+        "url": "./github/Annual Performance Review Guide.txt",
+        "created_on": "2019-01-08",
+        "updated_at": "2019-01-08",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "This project management guide is tailored for new project managers in our organization. It covers the methodologies we follow, tools we use, and best practices for managing timelines, budgets, and team dynamics. Additionally, it offers troubleshooting tips and strategies for common project challenges. This guide is a crucial resource for ensuring the success of your projects.",
+        "summary": "The project management guide provides methodologies, tools, and best practices to assist new managers in successfully leading projects.",
+        "name": "Project Management Guide",
+        "url": "./github/Project Management Guide.txt",
+        "created_on": "2019-02-20",
+        "updated_at": "2019-02-20",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our cybersecurity awareness training is essential for all employees to understand the risks and responsibilities in protecting sensitive company data. This manual covers best practices for password management, identifying phishing attempts, and securing personal and professional devices. Compliance with this training is mandatory to maintain our cybersecurity standards.",
+        "summary": "The cybersecurity awareness training manual details best practices for data protection and is mandatory for all employees to comply with company standards.",
+        "name": "Cybersecurity Awareness Training Manual",
+        "url": "./github/Cybersecurity Awareness Training Manual.txt",
+        "created_on": "2019-03-15",
+        "updated_at": "2019-03-15",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our new software release features significant upgrades to both the user interface and backend systems. This release notes document provides a comprehensive overview of the changes, expected impacts, and steps for a smooth transition. Please review the document to understand the enhancements and prepare for upcoming training sessions.",
+        "summary": "The software release notes describe significant upgrades to the user interface and backend systems, outlining impacts and transition steps.",
+        "name": "Software Release Notes",
+        "url": "./github/Software Release Notes.txt",
+        "created_on": "2019-04-10",
+        "updated_at": "2019-04-10",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our environmental sustainability policy outlines the company's commitment to reducing its environmental impact. This document details our strategies for waste management, energy use reduction, and sustainable sourcing. All employees are expected to adhere to these guidelines to help us achieve our sustainability goals.",
+        "summary": "The environmental sustainability policy details the company's strategies for waste management, energy reduction, and sustainable sourcing.",
+        "name": "Environmental Sustainability Policy",
+        "url": "./github/Environmental Sustainability Policy.txt",
+        "created_on": "2019-05-05",
+        "updated_at": "2019-05-05",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "Our company is introducing a new internal communications platform to enhance collaboration across departments. This guide covers the features of the platform, best practices for effective communication, and troubleshooting common issues. Familiarize yourself with this tool to improve your daily interactions and productivity.",
+        "summary": "The guide introduces a new internal communications platform, detailing features, usage best practices, and troubleshooting for enhanced inter-department collaboration.",
+        "name": "Internal Communications Platform Guide",
+        "url": "./github/Internal Communications Platform Guide.txt",
+        "created_on": "2019-06-20",
+        "updated_at": "2019-06-20",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
+    },
+    {
+        "content": "This diversity and inclusion training manual is part of our initiative to foster an inclusive workplace. It includes information on understanding cultural differences, promoting inclusivity in team settings, and handling sensitive issues with respect and empathy. All employees are required to complete this training to help cultivate an environment where everyone feels valued and respected.",
+        "summary": "The diversity and inclusion training manual promotes understanding cultural differences, inclusivity, and respectful handling of sensitive issues.",
+        "name": "Diversity and Inclusion Training Manual",
+        "url": "./github/Diversity and Inclusion Training Manual.txt",
+        "created_on": "2019-07-15",
+        "updated_at": "2019-07-15",
+        "category": "github",
+        "rolePermissions": ["demo", "manager"]
     }
-  ]
+]
